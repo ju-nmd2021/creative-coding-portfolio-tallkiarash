@@ -1,9 +1,34 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
-    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
-    "github": "https://www.github.com/pixelkind"
+    "file": "experiments/LongPath.js",
+    "name": "Alice Path",
+    "description": "Alice Path is the name of this piece of art, which draws its inspiration from Lewis Carroll's Alice's Adventures in Wonderland. The purpose of this artwork is to visually represent a whimsical and surreal pathway leading to Wonderland, capturing the essence of the fantastical and dreamlike world Alice encounters in the story.",
+    "background": "The main goal of this art piece is to visualize an entrance to Wonderland that was inspired by Alice in Wonderland. The goal is to create a road that is abstract, colorful, and reminiscent of a fantastical or whimsical journey to match the idea of Alice's experiences ",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/RandomShapes.js",
+    "name": "Random Shapy",
+    "description": "The idea behind this piece of art is to introduce randomness into the formation of forms and colours in order to create an abstract and aesthetically dynamic background.",
+    "background": "The artwork adheres to the ideas of Abstract Expressionism in its use of randomness, brilliant colours, and absence of a definite representational topic. This trend has been influenced by artists with a reputation for creating emotive, non-representational works of art, such as Jackson Pollock and Mark Rothko.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/WaveSea.js",
+    "name": "Sin wave",
+    "description": "The concept and goal of the piece of art, Wave Sin, are to use sine waves to produce a visually arresting and rhythmic pattern.",
+    "background": "This piece of art can be compared to the use of repeated patterns and optical illusions in Op Art, as demonstrated by artists like Bridget Riley. Op art frequently examines how lines, forms, and colours affect how the spectator perceives an image.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/DominoBricks.js",
+    "name": "Domino Bricks",
+    "description": "The idea behind Domino Bricks is to use straightforward geometric forms (rectangles) with a regulated amount of colour unpredictability to produce an aesthetically pleasing and complicated pattern. Similar to a grid of dominoes, the pattern's repetitiveness symbolizes order and predictability.",
+    "background": "Domino Bricks is inspired by minimalism and abstract geometric art styles because of its repetitive use of basic geometric shapes. Similar concepts of repetition and geometry were explored by artists like Sol LeWitt and Frank Stella.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
   }
+
 ]
