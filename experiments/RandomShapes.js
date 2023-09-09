@@ -1,4 +1,4 @@
-// in this website I just learnd how to use random color and then I changed the fill to rect and etc. Source: https://www.reddit.com/r/p5js/comments/qrxjw7/deleted_by_user/
+// in this website I just learnd how to use random color and then I changed the fill to rect and etc. Source: https://www.reddit.com/r/p5js/comments/qrxjw7/deleted_by_user/ and  https://kellylougheed.medium.com/generative-art-with-p5-js-program-your-own-art-6a6ac7e57d87
 
 
 function setup() {
