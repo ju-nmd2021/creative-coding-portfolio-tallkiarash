@@ -29,6 +29,45 @@
     "description": "The idea behind Domino Bricks is to use straightforward geometric forms (rectangles) with a regulated amount of colour unpredictability to produce an aesthetically pleasing and complicated pattern. Similar to a grid of dominoes, the pattern's repetitiveness symbolizes order and predictability.",
     "background": "Domino Bricks is inspired by minimalism and abstract geometric art styles because of its repetitive use of basic geometric shapes. Similar concepts of repetition and geometry were explored by artists like Sol LeWitt and Frank Stella.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
-  }
+  },
 
+  {
+    "file": "experiments/cloudy.js",
+    "name": "cloudy sky",
+    "description": "The core concept behind this ethereal spectacle is to immerse you in the boundless expanse of the sky, creating the sensation of soaring beyond the clouds.",
+    "background": "This art piece draws its primary inspiration from the ethereal world of Maxfield Parrish's Clouds.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/FantasyRain.js",
+    "name": "Fantasy Rain",
+    "description": "The primary objective of Fantasy Rain is to capture the mesmerizing beauty of rain cascading down a car window when the vehicle is serenely parked, evoking a sense of enchantment and wonder.",
+    "background": "The inspiration of this art piece is from the rain on the widow of the car.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/perfiled.js",
+    "name": "perfiled Circles",
+    "description": "My work aims to research the aesthetic potential of code, look at how noise and randomness may produce patterns that are aesthetically pleasing, or simply produce a visually beautiful piece of generative art.",
+    "background": "Rather of presenting actual things or scenes, it emphasizes on colour, form, and motion. With trends like Abstract Expressionism and Op Art, abstract art frequently aims to evoke feelings, provoke thinking, or confound vision.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/SideField.js",
+    "name": "Side Field",
+    "description": "This work of art has an eye-catching, dynamic design that seems like a plant growing on a wall.",
+    "background": "The pattern has an unpredictable and changing quality that is evocative of chaotic systems. It relates to the idea of complexity in science and art, where straightforward rules may produce complex and unanticipated results.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/frameField.js",
+    "name": "frame Field",
+    "description": "a kind of digital art where the visual or auditory compositions are produced using random processes and algorithms. The distinction between the artist's aim and the impact of the machine is frequently blurred in generative art, producing a distinctive style.",
+    "background": "inspired by generative artists and projects, including those of Casey Reas, Joshua Davis, and the Processing community, a programming language and environment made specifically for artists.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  }
 ]
