@@ -3,11 +3,11 @@
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    background(250, 250, 250);
+    background(200);
 }
 
 function draw (){
-    for(let i=0; i<60; i++){
+    for(let i=0; i<40; i++){
         noStroke();
         fill( random(0,255), random(0,255), random(0,255), random(0,255));
         rect( random(0,600), random(0,600), random(255));

@@ -66,8 +66,16 @@
   {
     "file": "experiments/frameField.js",
     "name": "frame Field",
-    "description": "a kind of digital art where the visual or auditory compositions are produced using random processes and algorithms. The distinction between the artist's aim and the impact of the machine is frequently blurred in generative art, producing a distinctive style.",
-    "background": "inspired by generative artists and projects, including those of Casey Reas, Joshua Davis, and the Processing community, a programming language and environment made specifically for artists.",
+    "description": "A kind of digital art where the visual or auditory compositions are produced using random processes and algorithms. The distinction between the artist's aim and the impact of the machine is frequently blurred in generative art, producing a distinctive style.",
+    "background": "Inspired by generative artists and projects, including those of Casey Reas, Joshua Davis, and the Processing community, a programming language and environment made specifically for artists.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
+  },
+
+  {
+    "file": "experiments/PerNoise.js",
+    "name": "PerNoise",
+    "description": "To hear the sound just click anywhere on the screen to hear the sound (Noise!).A kind of digital art where the visual or auditory compositions are produced using random processes and algorithms. The distinction between the artist's aim and the impact of the machine is frequently blurred in generative art, producing a distinctive style.",
+    "background": "Inspired by generative artists and projects, including those of Casey Reas, Joshua Davis, and the Processing community, a programming language and environment made specifically for artists.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
   }
 ]

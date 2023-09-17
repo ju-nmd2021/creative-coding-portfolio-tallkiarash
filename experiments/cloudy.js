@@ -35,6 +35,6 @@ function draw(){
 
         points[i].add (createVector(cos(angle), sin(angle))); 
     
-        ellipse(points[i] . x, points[i].y, 50); 
+        ellipse(points[i] . x, points[i].y, 500); 
     }
 }

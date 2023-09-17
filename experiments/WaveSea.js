@@ -3,10 +3,11 @@
 function setup() {
     createCanvas(windowWidth, windowHeight);
     background(250, 250, 250);
+    inc = TWO_PI / 10.0;
 }
 
 let a = 122;
-let inc = TWO_PI / 10.0;
+let inc;
 
 function draw (){
     fill( 150,150,150);
