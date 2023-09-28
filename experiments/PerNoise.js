@@ -16,7 +16,7 @@ function setup(){
 
     for (var x = 0; x < width; x += space){
         for(var y = 0; y < height; y += space){
-            var p = createVector(x + random(-10,0),y -random(10,1));
+            var p = createVector(x + random(5,0),y -random(10,1));
             points.push(p);
         }
     }

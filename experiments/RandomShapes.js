@@ -2,16 +2,20 @@
 
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(innerWidth, innerHeight);
     background(200);
-}
+  }
+  
+  function draw() {
+    for (let i = 0; i < 104; i++) {
+      noStroke();
+      fill(random(0, 255), random(0, 255), random(0, 255), random(0, 255));
 
-function draw (){
-    for(let i=0; i<40; i++){
-        noStroke();
-        fill( random(0,255), random(0,255), random(0,255), random(0,255));
-        rect( random(0,600), random(0,600), random(255));
-        ellipse ( random(0,600), random(0,600), random(255));
+      let centerX = width / 2;
+      let centerY = height / 2;
+  
+      rect(centerX + random(-300, 300), centerY + random(-300, 300), random(255));
+      ellipse(centerX + random(-300, 300), centerY + random(-300, 300), random(255));
     }
     noLoop();
 }
