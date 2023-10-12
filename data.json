@@ -82,24 +82,24 @@
   {
     "file": "experiments/pefieldGlass.js",
     "name": "pefieldGlass",
-    "description": "No data yet!",
-    "background": "No Data yet!",
+    "description": "This is just new version of the perfield",
+    "background": "Worms are working there!",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
   },
 
   {
     "file": "experiments/perfiled2.js",
     "name": "Perfiled 2",
-    "description": "No data yet!",
-    "background": "No Data yet!",
+    "description": "This is just new version of the perfield",
+    "background": "Inspired By Moana Logo",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
   },
 
   {
     "file": "experiments/frameField02.js",
     "name": "frameField 2",
-    "description": "No data yet!",
-    "background": "No Data yet!",
+    "description": "This is just new version",
+    "background": "Waves are there Be Very Careful",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-tallkiarash.git"
   }
 ]
